@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Rectangles </title>
+<link rel="stylesheet" type="text/css" href="home.css" />
+</head>
+
+<body>
+<p> The area is: </p>
+<div class = "main">
+<script>
+var a = prompt("Enter a value for the length.")
+a=parseFloat(a)
+var b = prompt("Enter a value for the width.")
+var x= a*b
+document.write(x)
+</script>
+
+</div>
+
+</body>
+
+</html>
