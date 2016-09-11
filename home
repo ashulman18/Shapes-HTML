@@ -1,0 +1,18 @@
+body {background: url(back.jpg)}
+body	{font-family: "Trebuchet MS", Arial,
+		Helvetic, sans-serif
+		color: yellow; margin-left:150px}
+p	{font-size:16px, color:yellow}
+h1	{color: green}
+a: link, a:visited {color: yellow}
+a: focus, a:hover,a:active {color:yellow;
+	text-decoriation:none; font-weight:bold}
+img.little{border:1px solid #A5D8F6}
+p.image_links{white-space:nowrap}
+p.copyright{font-size:smaller;
+	padding-top:40px}
+div.nav_bar {position: absolute;
+	left:10px;
+	top:10px; text-align:left; font-size:15px; padding: 10px 10px 10px 10px; border-style: solid; border-width: 5px} //change right to left page 87
+div.main{margin-left:200px}
+//div.main p{font-style:italic}
